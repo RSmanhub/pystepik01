@@ -1,8 +1,13 @@
 """
-
+Файл для тренировки и учёбы
 """
 
 
-print("Hello from GitHub")
-print("new commit")
+def main():
+    print("Hello from GitHub")
+    print("new commit")
+
+
+if __name__ == "__main__":
+    main()
 

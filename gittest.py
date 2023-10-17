@@ -10,7 +10,6 @@ class Person:
     age: int
 
 
-
 def get_anot(word: str, num: int) -> str:
     """
     Получить анотацию для слова
